@@ -2,7 +2,7 @@
 
 This folder contains the Jupyter notebook ipynb-file with the code for the OA-tool. The tool is developed in ArcPy and needs an installed version of ESRI ArcGIS Pro v. 2.8 or later to run. 
 
-There are currently teo versions of the tool available:
+There are currently two versions of the tool available:
 
 - **OA_tool_v1.ipynb**: Outputs a 3D window Multipatch Feature Layer. A column containing the obstruction angle value has been added to the attribute table of the layer. 
 
